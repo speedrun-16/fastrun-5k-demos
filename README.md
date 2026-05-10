@@ -10,11 +10,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemical](./speedrun_chemical) | 1 | 2025-11-12 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-11-21 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
+| [speedrun_pool_simple](./speedrun_pool_simple) | 1 | 2026-05-10 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 
 ---
 
 ### Statistics
-- Total Maps: **6**
-- Total Demos: **6**
+- Total Maps: **7**
+- Total Demos: **7**
