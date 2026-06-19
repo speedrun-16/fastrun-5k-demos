@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_ramp-master_ex",
+  "updatedAt": "2026-06-19T06:04:09.914593Z",
+  "runs": [
+    {
+      "uid": "HCQ198NZ2",
+      "rid": 30731,
+      "hash": "a74527511883b1f295961542f201f727c44e6bbdf922259e4c6670deed3b88b9",
+      "t": 2182,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-29T13:42:45Z",
+      "zip": "00002182_STEAM_0_0_35544084_20260129-134245.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_ramp-master_ex-20260129-#HCQ198NZ2.analysis.json",
+          "off": 87,
+          "size": 104565
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_ramp-master_ex-20260129-#HCQ198NZ2.dem",
+          "off": 104729,
+          "size": 49759
+        },
+        {
+          "type": "replay",
+          "name": "30731.replay.xz",
+          "off": 154533,
+          "size": 7228
+        }
+      ]
+    }
+  ]
+}
