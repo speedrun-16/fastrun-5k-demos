@@ -1,7 +1,7 @@
 {
   "category": 14,
   "categoryName": "5K Run",
-  "updatedAt": "2026-08-13T18:00:21.917Z",
+  "updatedAt": "2026-08-15T18:00:00.508Z",
   "maps": {
     "speedrun_pupsik": {
       "n": 1,
@@ -44,6 +44,12 @@
       "best": 1279,
       "at": "2026-06-01T16:33:45Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
+    },
+    "speedrun_enemy_easy": {
+      "n": 1,
+      "best": 9521,
+      "at": "2026-08-15T13:46:07.000Z",
+      "manifest": "maps/speedrun_enemy_easy/manifest.json"
     },
     "speedrun_replay_return": {
       "n": 1,

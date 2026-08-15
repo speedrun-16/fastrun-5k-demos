@@ -6,9 +6,9 @@ Map-level archive directory for the 5K Run category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 12 |
-| Archived PBs | 14 |
-| Latest Update | 2026-08-13 |
+| Maps | 13 |
+| Archived PBs | 15 |
+| Latest Update | 2026-08-15 |
 
 ## Structure
 

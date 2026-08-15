@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_enemy_easy",
+  "updatedAt": "2026-08-15T18:00:00.508Z",
+  "runs": [
+    {
+      "uid": "RD6FS4AGJ",
+      "rid": 82413,
+      "hash": "7293b47933f3c58b8d40214292faf0335694aa1d11470fbbebcbc0a9a540f4c7",
+      "t": 9521,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-08-15T13:46:07.000Z",
+      "zip": "00009521_STEAM_0_1_87291981_20260815-134607.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_enemy_easy-20260815-#RD6FS4AGJ.dem",
+          "off": 73,
+          "size": 90916
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_enemy_easy-20260815-#RD6FS4AGJ.analysis.json",
+          "off": 91072,
+          "size": 219740
+        },
+        {
+          "type": "replay",
+          "name": "82413.replay.xz",
+          "off": 310857,
+          "size": 27336
+        }
+      ]
+    }
+  ]
+}
