@@ -1,7 +1,7 @@
 {
   "category": 14,
   "categoryName": "5K Run",
-  "updatedAt": "2026-08-15T18:00:00.508Z",
+  "updatedAt": "2026-08-16T18:00:05.657Z",
   "maps": {
     "speedrun_pupsik": {
       "n": 1,
@@ -62,6 +62,12 @@
       "best": 1276,
       "at": "2026-07-27T20:00:50.000Z",
       "manifest": "maps/speedrun_small_white/manifest.json"
+    },
+    "speedrun_20min": {
+      "n": 1,
+      "best": 1248,
+      "at": "2026-08-16T14:38:10.000Z",
+      "manifest": "maps/speedrun_20min/manifest.json"
     },
     "speedrun_ramp-master_ex": {
       "n": 1,

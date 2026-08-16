@@ -6,9 +6,9 @@ Personal best demo archive for the 5K Run category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 13 |
-| Archived PBs | 15 |
-| Latest Update | 2026-08-15 |
+| Maps | 14 |
+| Archived PBs | 16 |
+| Latest Update | 2026-08-16 |
 
 ## Structure
 
